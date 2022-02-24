@@ -188,7 +188,6 @@ var taskStatusChangeHandler = function(event) {
     }
 
     saveTasks();
-    console.log(tasks);
 };
 
 var saveTasks = function() {
